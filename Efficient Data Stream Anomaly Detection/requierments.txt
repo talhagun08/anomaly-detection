@@ -1,0 +1,4 @@
+python 3.x.x
+matplotlib plt
+numpy
+deque from collections
